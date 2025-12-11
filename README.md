@@ -1,4 +1,4 @@
-# to-do-app.io
+# to-do-app
 To-Do List App
 
 A simple, clean, and responsive To-Do List Web App built with HTML, CSS, and JavaScript. It allows users to manage their daily tasks effectively by adding, editing, deleting, and marking tasks as completed. The app uses localStorage to save all tasks permanently on the browser, ensuring no data is lost on reload.
